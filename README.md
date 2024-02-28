@@ -1,4 +1,4 @@
-#🚗 Traffic vehicle tracker using yolo and machine learning
+# 🚗 Traffic vehicle tracker using yolo and machine learning
 
 ## Input Video footage
 
